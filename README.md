@@ -11,5 +11,5 @@ A web-based Computer-Based Test built with Flask for Assignment 4/
 
 ## How to run locallly d(for beginners)
 
-1. Open the folder inu VS Code
+1. Open the folder inu VS Codeu
 2. In terminal run:
