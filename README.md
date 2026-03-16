@@ -10,10 +10,6 @@ A web-based Computer-Based Test built with Flask for Assignment 4/
 - Full OOP with Question class works book
 l
 ## How to run locallly d(for beginners)
-v
 1. Open the folder in VS Code
 2. In terminalo run:
 3. open browser
-m
-t
-n
