@@ -15,3 +15,4 @@ A web-based Computer-Based Test built with Flask for Assignment 4/
 2. In terminalo run:
 g
 m
+t
