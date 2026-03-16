@@ -13,3 +13,4 @@ A web-based Computer-Based Test built with Flask for Assignment 4/
 
 1. Open the folder inu VS Codeu
 2. In terminalo run:
+g
